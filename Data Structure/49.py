@@ -25,6 +25,7 @@ strs[i] consists of lowercase English letters.
 
 class Solution:
     def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
+        print(result)
         
 
 Sol= Solution()
