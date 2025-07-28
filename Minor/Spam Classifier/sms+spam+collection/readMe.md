@@ -41,8 +41,8 @@
  <td>Author Info</td>
  <td>
   Alish Shaikh<br>
-  🔗 <a href="https://github.com/kaustubhsawant-it">GitHub</a> |
-  <a href="https://linkedin.com/in/kaustubh-ai">LinkedIn</a>
+  🔗 <a href="https://github.com/Alisha-Shaikh98">GitHub</a> |
+  <a href="https://www.linkedin.com/in/alishashaikh-ai/">LinkedIn</a>
  </td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@
 Clone the repo and install the dependencies:
 
 ```bash
-git clone https://github.com/kaustubhsawant/<repo-name>.git
+git clone https://github.com/Alisha-Shaikh98<repo-name>.git
 
 cd <repo-name>
 
